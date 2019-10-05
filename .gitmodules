@@ -1,0 +1,3 @@
+[submodule "Lexical_Analyzer"]
+	path = Lexical_Analyzer
+	url = https://github.com/isaac-ba/Lexical_Analyzer.git
