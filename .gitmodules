@@ -7,3 +7,6 @@
 [submodule "Huffman_LL_Insert_Java"]
 	path = Huffman_LL_Insert_Java
 	url = https://github.com/isaacmba/Huffman_LL_Insert_Java.git
+[submodule "RunLengthEncoding"]
+	path = RunLengthEncoding
+	url = https://github.com/isaacmba/RunLengthEncoding.git
