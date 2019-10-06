@@ -4,3 +4,6 @@
 [submodule "Character_Count_Alg_Java"]
 	path = Character_Count_Alg_Java
 	url = https://github.com/isaac-ba/Character_Count_Alg_Java.git
+[submodule "Huffman_LL_Insert_Java"]
+	path = Huffman_LL_Insert_Java
+	url = https://github.com/isaacmba/Huffman_LL_Insert_Java.git
